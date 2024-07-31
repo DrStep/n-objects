@@ -2,6 +2,12 @@
 
 In this repo basic page for N-Objects project is provided.
 
+## Deploy to Github Pages
+
+To deploy project to Pages
+
+### `npm run deploy`
+
 ## Available Scripts
 
 In the project directory, you can run:
